@@ -1,7 +1,7 @@
 //hava durumu projesi
 
 const setQuery = () => {
-    if (e.keyCode == '13')
+    if (e.k c  == '13')
         getResult(searchBar.value)
 
 }
