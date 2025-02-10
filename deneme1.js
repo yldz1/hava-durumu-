@@ -1,7 +1,4 @@
-//hava durumu projesidir
-const url = 'https://api.openweathermap.org/data/3.0/';
-const key = 'f386a1aefe7b3444be2b1cce46828e11';
-
+//hava durumu projesi
 
 const setQuery = () => {
     if (e.keyCode == '13')
